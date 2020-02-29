@@ -1,5 +1,10 @@
 *.bethesda.net
 *.elderscrollsonline.com
+a23-50-51-161.deploy.static.akamaitechnologies.com
+a23-50-51-163.deploy.static.akamaitechnologies.com
+a23-50-51-216.deploy.static.akamaitechnologies.com
+204.237.142.186
+168-128-152-212.mcp-services.net
 live.patcher.elderscrollsonline.com
 liveeu.patcher.elderscrollsonline.com
 patcher.elderscrollsonline.com
