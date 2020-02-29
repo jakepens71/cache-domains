@@ -1,3 +1,5 @@
+*.bethesda.net
+*.elderscrollsonline.com
 live.patcher.elderscrollsonline.com
 liveeu.patcher.elderscrollsonline.com
 patcher.elderscrollsonline.com
