@@ -1,8 +1,8 @@
+live.patcher.elderscrollsonline.com
+liveeu.patcher.elderscrollsonline.com
 patcher.elderscrollsonline.com
 launcher.bethesda.net
 a1092.d.akamai.net
 23.50.51.211
-live.patcher.elderscrollsonline.com
-liveeu.patcher.elderscrollsonline.com
 pts.patcher.elderscrollsonline.com
 launcher.patcher.elderscrollsonline.com
