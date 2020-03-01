@@ -1,5 +1,6 @@
 *.bethesda.net
 *.elderscrollsonline.com
+a23-50-51-155.deploy.static.akamaitechnologies.com
 a23-50-51-161.deploy.static.akamaitechnologies.com
 a23-50-51-163.deploy.static.akamaitechnologies.com
 a23-50-51-216.deploy.static.akamaitechnologies.com
@@ -11,5 +12,6 @@ patcher.elderscrollsonline.com
 launcher.bethesda.net
 a1092.d.akamai.net
 23.50.51.211
+23.50.51.216
 pts.patcher.elderscrollsonline.com
 launcher.patcher.elderscrollsonline.com
