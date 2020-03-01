@@ -15,3 +15,4 @@ a1092.d.akamai.net
 23.50.51.216
 pts.patcher.elderscrollsonline.com
 launcher.patcher.elderscrollsonline.com
+elderscrollsonline.com
