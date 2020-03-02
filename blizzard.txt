@@ -18,3 +18,4 @@ server-99-84-102-74.iad79.r.cloudfront.net
 server-99-84-102-90.iad79.r.cloudfront.net
 server-99-86-230-103.iad79.r.cloudfront.net
 server-13-224-215-33.phl50.r.cloudfront.net
+iad30s15-in-f14.1e100.net
