@@ -12,3 +12,5 @@ nydus.battle.net
 edge.blizzard.top.comcast.net
 cdn.blizzard.com
 *.cdn.blizzard.com
+a23-195-65-245.deploy.static.akamaitechnologies.com
+a72-247-5-131.deploy.static.akamaitechnologies.com
