@@ -15,3 +15,4 @@ cdn.blizzard.com
 a23-195-65-245.deploy.static.akamaitechnologies.com
 a72-247-5-131.deploy.static.akamaitechnologies.com
 server-99-84-102-74.iad79.r.cloudfront.net
+server-99-84-102-90.iad79.r.cloudfront.net
